@@ -1,4 +1,6 @@
-let physicsObject = {
+define({
+
+physicsObject: {
   x: 0,
   y: 0,
   dx: 0,
@@ -9,4 +11,4 @@ let physicsObject = {
   }
 }
 
-export {physicsObject}
+});
